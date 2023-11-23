@@ -3,11 +3,11 @@ title: About Thumbling Cactus
 feature_text: |-
   ## Thumblig Cactus
   This is Gyeongjun Chae's Blog
-feature_image: "https://cka09191.github.io/assets/CactusImage.jpeg"
-excerpt: Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+feature_image: '"/assets/CactusImage.jpeg"'
+excerpt: This is Gyeongjun Chae's Blog created with [Alembic](https://github.com/daviddarnes/alembic). This blog supports both English and Korean.
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+This is Gyeongjun Chae's Blog created with [Alembic](https://github.com/daviddarnes/alembic). This blog supports both English and Korean.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
