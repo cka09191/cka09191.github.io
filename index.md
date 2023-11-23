@@ -3,7 +3,7 @@ title: About Thumbling Cactus
 feature_text: |-
   ## Thumblig Cactus
   This is Gyeongjun Chae's Blog
-feature_image: /assets/CactusImage.jpeg
+feature_image: '"/assets/CactusImage.jpeg"'
 excerpt: This is Gyeongjun Chae's Blog created with [Alembic](https://github.com/daviddarnes/alembic). This blog supports both English and Korean.
 ---
 
