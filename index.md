@@ -3,7 +3,7 @@ title: About Thumbling Cactus
 feature_text: |-
   ## Thumblig Cactus
   This is Gyeongjun Chae's Blog
-feature_image: ![Screenshot](https://cka09191.github.io/assets/CactusImage.jpeg)
+feature_image: "https://cka09191.github.io/assets/CactusImage.jpeg"
 excerpt: Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
 ---
 
