@@ -53,16 +53,16 @@ sass:
   style: compressed # Style compression
 permalink:  /:title/  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Asia/Seoul # Timezone for blog posts and alike
+timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "All Blog Posts" # The post list page content
+    description: "My thoughts and ideas" # The post list page content
     feature_text: |
-      # Gyeongjun's Blog
+      Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -93,8 +93,8 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/cka09191/cka09191.github.io/"
-email: "ck09137@gmail.com"
+repo: "https://github.com/daviddarnes/alembic"
+email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -126,19 +126,18 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Gyeongjun's blog. Template created by David Darnes
+- title: Created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/%EA%B2%BD%EC%A4%80-%EC%B1%84-73a507273/
   GitHub: https://github.com/cka09191
   link: https://cka09191.github.io/
-  # RSS: /feed.xml
+  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  # Twitter: "#0d94e7"
-  # facebook: "#3B5998"
-  
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
   Email: true
 
 # Load custom fonts from fonts.google.com etc
