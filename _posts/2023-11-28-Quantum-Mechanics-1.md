@@ -14,5 +14,7 @@ The primary goal of this series is to establish a robust 'second brain' by emplo
 
 References for the posts going to be used:
 Griffith, Introduction to Quantum Mechanics,
+
 Sakurai, Modern Quantum Mechanics,
+
 Arfken, Mathematical Methods for Physicists.
