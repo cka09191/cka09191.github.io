@@ -1,5 +1,5 @@
 ---
-title: Maxwell's-Equations
+title: Fundamental Concepts in Electromagnetics
 categories:
 - Physics
 ---
