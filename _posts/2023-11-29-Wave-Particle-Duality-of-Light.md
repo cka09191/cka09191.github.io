@@ -7,7 +7,6 @@ feature_text: |
 excerpt: |
   Light possesses the unique nature of being both a wave and a particle. This property, known as duality, allows us to explain light's behavior from two different perspectives. In this post, we'll delve into the terminologies that are essential for understanding the dual nature of light.
 ---
-# Wave–Particle Duality of Light
 
 
 The speed of light in a vacuum can be derived from the fundamental constants of permittivity ($$ \epsilon_0 $$) and permeability ($$ \mu_0 $$), illustrating light's wave-like properties:
