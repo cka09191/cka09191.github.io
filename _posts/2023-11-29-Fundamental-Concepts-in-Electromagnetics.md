@@ -3,9 +3,9 @@ title: Fundamental Concepts in Electromagnetics
 categories:
 - Physics
 feature_text: |
-This post introduces fundamental concepts in electromagnetics, including electromagnetic fields and potentials, Maxwell's Equations, the Lorentz force, Gauge transformation.
+  This post introduces fundamental concepts in electromagnetics, including electromagnetic fields and potentials, Maxwell's Equations, the Lorentz force, Gauge transformation.
 excerpt: |
-This post introduces fundamental concepts in electromagnetics, including electromagnetic fields and potentials, Maxwell's Equations, the Lorentz force, Gauge transformation.
+  This post introduces fundamental concepts in electromagnetics, including electromagnetic fields and potentials, Maxwell's Equations, the Lorentz force, Gauge transformation.
 ---
 
 
