@@ -2,9 +2,14 @@
 title: On Quantum Mechanics
 categories:
   - Quantum Mechanics
+
+feature_text: |
+  I'll post about quantum mechanics for a few weeks to summarize my study in university. The content of these posts will serve as a foundation for future discussions and posts on the topic of quantum information.
+excerpt: |
+  I'll post about quantum mechanics for a few weeks to summarize my study in university. The content of these posts will serve as a foundation for future discussions and posts on the topic of quantum information.
 ---
 
-I'll post about quantum mechanics for a few weeks to summarize my study in university. The content of these posts will serve as a foundation for future discussions and posts on the topic of quantum information.
+
 
 
 
