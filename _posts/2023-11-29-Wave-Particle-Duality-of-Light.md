@@ -4,6 +4,8 @@ categories:
   - Physics
 feature_text: |
   Light possesses the unique nature of being both a wave and a particle. This property, known as duality, allows us to explain light's behavior from two different perspectives. In this post, we'll delve into the terminologies that are essential for understanding the dual nature of light.
+excerpt: |
+  Light possesses the unique nature of being both a wave and a particle. This property, known as duality, allows us to explain light's behavior from two different perspectives. In this post, we'll delve into the terminologies that are essential for understanding the dual nature of light.
 ---
 # Wave–Particle Duality of Light
 
