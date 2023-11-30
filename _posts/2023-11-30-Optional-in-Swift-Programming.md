@@ -2,7 +2,7 @@
 title: Optional in Swift Programming
 categories:
   - Swift
-feature_text: We can avoid errors caused by nil values by using Optional types. Optional types should be safely unwrapped before use.
+feature_text: Ideally, there should be no nil values initially. However, like in a GUI environment where asynchronous tasks exist, encountering nil values is not uncommon. You have to use optional values where safety is required. Also, consider the situation you are in when unwrapping to choose the most readable and stable approach for your program.
 excerpt: |
   We can avoid errors caused by nil values by using Optional types. Optional types should be safely unwrapped before use.
 ---
