@@ -24,5 +24,5 @@ I'm planning a series of posts on thermal radiation, each covering a key topic:
 
 - **Black Body Radiation**: Culminating the series, we explore the idealized concept of a black body in thermal radiation, linking it back to the cosmic microwave background data, and tying together all the concepts discussed in previous posts.
 
-Stay tuned for this interconnected series that will guide you through the intricate world of thermal radiation, demonstrating how each concept builds upon the last to create a cohesive understanding.
 
+This series is interconnected each. Revisiting the descriptions above will enhance your cohesive understanding of the series.
