@@ -8,7 +8,7 @@
 
 ## About
 
-This is repo of my GitHub blog. This blog is intended to build and share my 'second brain'.
+This is my GitHub blog's repo. This blog is intended to build and share my 'second brain' repository/knowledge base.
 
 Fields:
 - Physics
@@ -22,7 +22,9 @@ Fields:
 
 ## Credits
 - Thanks to [David Darnes](https://darn.es/) for the original template of this blog [Alembic](https://github.com/daviddarnes/alembic)
-And credits below are credits in [Alembic](https://github.com/daviddarnes/alembic)
+
+And credits below are credits in [Alembic](https://github.com/daviddarnes/alembic):
+
 - Thanks to [Simple Icons](https://simpleicons.org/) for providing the brand icons, by [Dan Leech](https://twitter.com/bathtype)
 - Thanks to [Sassline](https://sassline.com/) for the typographic basis, by [Jake Giltsoff](https://twitter.com/jakegiltsoff)
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
