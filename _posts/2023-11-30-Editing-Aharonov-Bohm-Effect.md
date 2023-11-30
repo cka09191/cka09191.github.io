@@ -18,6 +18,6 @@ Around the solenoid, there exists a [vector potential](https://cka09191.github.i
 
 Considering the [Hamiltonian that includes the Lorentz force](https://cka09191.github.io/Fundamental-Concepts-in-Electromagnetics) within the solenoid:
 
-$$\mathcal{H}=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})$${2}+V$$
+$$\mathcal{H}=\frac{1}{2m} (\mathbf{p}-q \mathbf{A}){2}+V$$
 
 we can proceed to apply the Schrödinger equation:
