@@ -14,7 +14,7 @@ Think of an "ideal" solenoid:
 
 There's a constant magnetic field in the direction of $$\widehat z$$(red arrows). Around the solenoid, there exists a [vector potential](https://cka09191.github.io/Fundamental-Concepts-in-Electromagnetics) in the direction of $$\widehat\phi$$(blue arrows). But it have no effect on charge because magnetic field is zero outside the solenoid. In other words, if you put a charge outside the solenoid, it is not affected no matter how the magnetic field is strong.
 
-But, this explain induced in classical electromagnetics. How it would be in quantum world?
+But, this explanation induced in classical electromagnetics. How it would charge does in quantum world?
 
 Considering the [Hamiltonian that includes the Lorentz force](https://cka09191.github.io/Fundamental-Concepts-in-Electromagnetics) within the solenoid:
 
