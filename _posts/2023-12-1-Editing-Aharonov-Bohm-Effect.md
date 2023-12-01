@@ -21,14 +21,13 @@ Considering the [Hamiltonian that includes the Lorentz force](https://cka09191.g
 $$\mathcal{H}=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+V$$
 
 There is the vector potential $$\vec A$$, which has only azimuthal value. To find $$\vec A$$, we can use Ampére's Law:
-```
+
 $$\oint_c \vec A \cdot d\vec \ell = \int_S \nabla \times \vec A \cdot d \vec a = \Phi$$
 
 For outside the solenoid, the magnetic flux $$\Phi$$ is constant $$\Phi = \pi a^2 B$$.
 
-Therefore, $$\vec A = \frac{\Phi}{2\pi r}\hat \phi$$ for outside the solenoid.
-$$$
-```
+Therefore, $$\vec A = \frac{\Phi}{2\pi r}\hat \phi$$ for outside the solenoid.$$
+
 We can calculate vector potential $$\vec A$$ similar way. Actually this is not the point where I want to explain in this post. I just wanted to show there is $$\vec A$$ outside the solenoid, despite there is no magnetic field $$\mathbf B$$. We can graph azimutal component of $$\vec A$$(other direction, zero).
 {% include figure.html image="https://cka09191.github.io/assets/SolenoidVectorPotentialGraph.png" alt="Figure of a graph of vector potential of phi direction of solenoid" %}
 
