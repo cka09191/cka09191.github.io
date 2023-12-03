@@ -41,3 +41,49 @@ $$\begin{aligned}\mathcal{H}&=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+V
 \\&=\frac{1}{2m} \left[-\hbar^2\nabla^2+q^2 A^2+2i\hbar q\mathbf A \cdot\nabla\right]
 \\&=\frac{1}{2m} \left[-\frac{\hbar^2}{b^2}\frac{\partial^2}{\partial \phi}+\left(\frac{q^2 \Phi^2}{2\pi b}\right)^2+i\frac{\hbar q \Phi}{\pi b^2}\frac{\partial}{\partial \phi} \right]\end{aligned}$$
 
+By substituting it to Schrödinger equation and rearranging:
+
+$$\frac{\partial^2 \psi}{\partial \phi^2}-2i\beta\frac{d\psi}{d\phi}+\epsilon\psi=0$$
+
+where $$\beta=\frac{q\Phi}{2\pi\hbar}$$ and $$\epsilon=\frac{2mE}{\hbar^2}-\beta^2$$
+
+Let $$\phi = Ae^{i\lambda \phi}$$, then:
+
+$$-\lambda^2 + 2\lambda \beta + \epsilon = 0$$
+
+Therefore:
+
+$$\lambda = \beta \pm \sqrt{\beta^2 +\epsilon} = \beta \pm \frac{b}{\hbar}\sqrt{2mE}$$
+
+And using boundary condition:
+
+$$\psi(\phi) = \psi(\phi + 2\pi)$$
+
+Then
+
+$$\lambda = n \quad(0,\pm 1,\pm 2, \dots)$$
+
+And arrange the equation about $$E$$:
+
+$$E_n = \frac{\hbar^2}{2m}\left(n-\frac{q\Phi}{2\pi\hbar}\right)$$
+
+
+It quite took a time for calculating. But what's the important?
+
+Let's return to the story we have talking : Aharonov-Bohm Effect.
+
+Potential itself has meaning. In calculation of classical mechanics, the potential has no effect on [gauge transformation](https://cka09191.github.io/Fundamental-Concepts-in-Electromagnetics/). And we want to know this is same, in quantum mechanics.
+
+With gauge transformation:
+
+$$\mathbf A \rightarrow \mathbf A' = \mathbf A + \nabla + \Lambda$$
+
+Let $$\psi'$$:
+
+$$\psi \rightarrow \psi' = e^{iq\Lambda/\hbar}\psi$$
+
+which maybe same: $$\Lambda = 0$$
+
+By ?? Transformation:
+$$\psi = e^{ig}\psi'$$ with $$g(\mathbf r) =\frac{q}{\hbar}\int^{\mathbf r}_0 \mathbf A (\mathbf r') \cdot d\mathbf r'$$
+
