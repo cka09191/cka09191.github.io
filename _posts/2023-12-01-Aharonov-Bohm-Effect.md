@@ -36,6 +36,7 @@ We can proceed to apply the Schrödinger equation:
 $$i\hbar \frac{\partial\Psi}{\partial t} =\mathcal{H}\Psi$$
 
 And using $$\mathbf A$$, we can calculate $$\mathcal{H}$$:
+
 $$\begin{aligned}\mathcal{H}&=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+V
 \\&=\frac{1}{2m} \left[-\hbar^2\nabla^2+q^2 A^2+2i\hbar q\mathbf A \cdot\nabla\right]
 \\&=\frac{1}{2m} \left[-\frac{\hbar^2}{b^2}\frac{\partial^2}{\partial \phi}+\left(\frac{q^2 \Phi^2}{2\pi b}\right)^2+i\frac{\hbar q \Phi}{\pi b^2}\frac{\partial}{\partial \phi} \right]\end{aligned}$$
