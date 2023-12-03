@@ -87,3 +87,4 @@ which maybe same: $$\Lambda = 0$$
 By ?? Transformation:
 $$\psi = e^{ig}\psi'$$ with $$g(\mathbf r) =\frac{q}{\hbar}\int^{\mathbf r}_0 \mathbf A (\mathbf r') \cdot d\mathbf r'$$
 
+https://namu.wiki/w/%EA%B2%8C%EC%9D%B4%EC%A7%80%20%EC%9E%A5?from=%EA%B2%8C%EC%9D%B4%EC%A7%80%20%EB%B3%80%ED%99%98#s-3.4
