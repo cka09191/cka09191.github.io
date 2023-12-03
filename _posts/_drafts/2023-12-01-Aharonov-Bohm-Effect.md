@@ -20,18 +20,23 @@ Considering the [Hamiltonian that includes the Lorentz force](https://cka09191.g
 
 $$\mathcal{H}=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+V$$
 
-There is the vector potential $$\vec A$$, which has only azimuthal value. To find $$\vec A$$, we can use Ampére's Law:
+There is the vector potential $$\mathbf A$$, which has only azimuthal value. To find $$\mathbf A$$, we can use Ampére's Law:
 
-$$\oint_c \vec A \cdot d\vec \ell = \int_S \nabla \times \vec A \cdot d \vec a = \Phi$$
+$$\oint_c \mathbf A \cdot d\vec \ell = \int_S \nabla \times \mathbf A \cdot d \vec a = \Phi$$
 
 For outside the solenoid, the magnetic flux $$\Phi$$ is constant $$\Phi = \pi a^2 B$$.
 
-Therefore, $$\vec A = \frac{\Phi}{2\pi r}\hat \phi$$ for outside the solenoid.$$
+Therefore, $$\mathbf A = \frac{\Phi}{2\pi r}\hat \phi$$ for outside the solenoid.$$
 
-We can calculate vector potential $$\vec A$$ similar way. Actually this is not the point where I want to explain in this post. I just wanted to show there is $$\vec A$$ outside the solenoid, despite there is no magnetic field $$\mathbf B$$. We can graph azimutal component of $$\vec A$$(other direction, zero).
+We can calculate vector potential $$\mathbf A$$ similar way. Actually this is not the point where I want to explain in this post. I just wanted to show there is $$\mathbf A$$ outside the solenoid, despite there is no magnetic field $$\mathbf B$$. We can graph azimutal component of $$\mathbf A$$(other direction, zero).
 {% include figure.html image="https://cka09191.github.io/assets/SolenoidVectorPotentialGraph.png" alt="Figure of a graph of vector potential of phi direction of solenoid" %}
 
-we can proceed to apply the Schrödinger equation:
+We can proceed to apply the Schrödinger equation:
 
-$$i\hbar \frac{\partial\Psi}{\partial t} =\left[\frac{1}{2m}\left(\frac{k}{i}\nabla - q\vec A \right)^2+V\right]\Psi$$
+$$i\hbar \frac{\partial\Psi}{\partial t} =\mathcal{H}\Psi$$
+
+And using $$\mathbf A$$, we can calculate $$\mathcal{H}$$:
+$$\begin{aligned}\mathcal{H}&=\frac{1}{2m} (\mathbf{p}-q \mathbf{A})^{2}+V
+&=\frac{1}{2m} \left[-\hbar^2\nabla^2+q^2 A^2+2i\hbar q\mathbf A \cdot\nabla\right]
+&=\frac{1}{2m} \left[-\frac{\hbar^2}{b^2}\frac{\partial^2}{\partial \phi}+\left(\frac{q^2 \Phi^2}{2\pib}\right)^2+i\frac{\hbar q \Phi}{\pi b^2}\frac{\partial}{\partial \phi} \right]\end{aligned}$$
 
