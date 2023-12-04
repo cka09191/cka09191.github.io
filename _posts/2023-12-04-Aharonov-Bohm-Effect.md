@@ -3,7 +3,7 @@ title: Aharonov-Bohm Effect(Editing)
 categories:
   - Quantum Mechanics
 feature_text: |
-	The Aharonov-Bohm effect demonstrates that in quantum mechanics, potentials themselves have a real effect on charged particles, even in regions devoid of electromagnetic fields or forces. This contrasts with classical physics, where potentials are not considered physically significant in the absence of fields.
+  The Aharonov-Bohm effect demonstrates that in quantum mechanics, potentials themselves have a real effect on charged particles, even in regions devoid of electromagnetic fields or forces. This contrasts with classical physics, where potentials are not considered physically significant in the absence of fields.
 excerpt: |
   The Aharonov-Bohm effect reveals that in quantum mechanics, potentials can significantly impact charged particles in areas without electromagnetic fields or forces. This stands in contrast to classical physics, which disregards the physical significance of potentials in the absence of fields.
 ---
