@@ -1,0 +1,24 @@
+##Entanglement Entropy
+
+$$|\Psi _{e^+ + e^-} \rangle = \frac{1}{\sqrt {2}}\left(|\uparrow_{e^-}\downarrow_{e^{+}}\rangle + |\downarrow_{e^-}\uparrow_{e^{+}}\rangle\right)$$
+$$\Psi = \sum_{nm}\Psi_nm \Psi_n \otimes\Phi+m$$
+
+Density Matrix
+$$\rho = \sum_n P_n |\Psi_n\rangle\langle\Psi_n|$$
+
+Expectation Value
+$$\langle\hat A\rangle = \sum_n\left(P_n\langle\Psi_n|\hat \Psi_n\rangle\right)=\mathsf{Tr}\{\hat A \rho\}$$
+
+Von Neumann Entropy = Entanglement Entropy
+$$S\equiv-k_B\sum_n P_n \ln P_n$$
+
+
+## Bell's theorem
+
+$$\symbf P \equiv \left(\frac{\hbar^2}{4}\right)^{-1}\langle\mathbf S_1 \cdot \mathbf a \mathbf S_2 \cdot \mathbf b \rangle$$
+$$\symbf P =- \left(\frac{\hbar^2}{4}\right)^{-1}\langle\mathbf S_1 \cdot \mathbf a \mathbf S_1 \cdot \mathbf b \rangle$$
+
+$$\mathbf S \cdot \mathbf a \mathbf S \cdot \mathbf b=\sum_{i,j}S_i S_j a_i b_j$$
+$$S_i S_j = \frac{\hbar^2}{4}\delta_{ij}+i\frac{\hbar}{2}\epsilon{ijk}S_k$$
+
+$$\delta = \dots$$
