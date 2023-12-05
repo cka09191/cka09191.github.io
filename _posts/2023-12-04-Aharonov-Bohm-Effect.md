@@ -1,5 +1,5 @@
 ---
-title: Aharonov-Bohm Effect(Editing)
+title: Aharonov-Bohm Effect
 categories:
   - Quantum Mechanics
 feature_text: |
